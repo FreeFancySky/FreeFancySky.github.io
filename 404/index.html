@@ -458,12 +458,12 @@
                         diffMinutes * minutes) / seconds);
                     if (startYear == todayYear) {
                         document.getElementById("year").innerHTML = todayYear;
-                        document.getElementById("sitetime").innerHTML = " 岁月流转：" + diffDays + " 天/ " + diffHours +
+                        document.getElementById("sitetime").innerHTML = " 岁月流转：" + diffDays + " 天&nbsp; " + diffHours +
                             " h: " + diffMinutes + " m: " + diffSeconds + " s";
                     } else {
                         document.getElementById("year").innerHTML = startYear + " - " + todayYear;
                         document.getElementById("sitetime").innerHTML = "岁月流转： " + diffYears + " Y " + diffDays +
-                            " 天/ " + diffHours + " h: " + diffMinutes + " m: " + diffSeconds + " s";
+                            " 天&nbsp; " + diffHours + " h: " + diffMinutes + " m: " + diffSeconds + " s";
                     }
                 }
                 setInterval(siteTime, 1000);
