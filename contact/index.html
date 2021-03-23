@@ -455,13 +455,14 @@
             
             
             
+
             
             <span id="busuanzi_container_site_pv">
                 |&nbsp;<i class="far fa-eye"></i>&nbsp;:&nbsp;<span id="busuanzi_value_site_pv"
                     class="white-color"></span>&nbsp;次
             </span>
             
-
+            <br>
 
             
             <span id="sitetime">载入运行时间...</span>
@@ -497,12 +498,12 @@
                         diffMinutes * minutes) / seconds);
                     if (startYear == todayYear) {
                         document.getElementById("year").innerHTML = todayYear;
-                        document.getElementById("sitetime").innerHTML = " | " + diffDays + " 天 " + diffHours +
-                            " 时 " + diffMinutes + " 分 " + diffSeconds + " 秒";
+                        document.getElementById("sitetime").innerHTML = " 岁月流转：" + diffDays + " 天/ " + diffHours +
+                            " h: " + diffMinutes + " m: " + diffSeconds + " s";
                     } else {
                         document.getElementById("year").innerHTML = startYear + " - " + todayYear;
-                        document.getElementById("sitetime").innerHTML = " | " + diffYears + " 年 " + diffDays +
-                            " 天 " + diffHours + " 时 " + diffMinutes + " 分 " + diffSeconds + " 秒";
+                        document.getElementById("sitetime").innerHTML = "岁月流转： " + diffYears + " Y " + diffDays +
+                            " 天/ " + diffHours + " h: " + diffMinutes + " m: " + diffSeconds + " s";
                     }
                 }
                 setInterval(siteTime, 1000);
