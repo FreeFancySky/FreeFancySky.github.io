@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="2021/03/23/%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9Cwin10%E5%90%AF%E5%8A%A8%E7%9B%98/"/>
+      <url>2021/03/23/%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9Cwin10%E5%90%AF%E5%8A%A8%E7%9B%98/</url>
+      
+        <content type="html"><![CDATA[<ul><li><p><a href="https://www.freefancysky.com/post1268.html"><strong>主目录</strong></a></p>  <p>　　<strong>准备：</strong>U盘（至少8G）</p>  <p>　　(<strong>注：</strong>制作为启动盘会格式化U盘中的内容，请先把U盘中的重要内容备份到其他地方)</p>  <p><strong>1.进入网址：</strong> <a href="https://www.microsoft.com/zh-cn/software-download/windows10">https://www.microsoft.com/zh-cn/software-download/windows10</a> ，找到“立即下载工具”，点击下载该工具</p>  <p><strong>2. 安装下载的软件，</strong>详细过程如下：  　　01.双击软件进入安装程序时，会先进行一个准备工作</p>  <img src="https://files.freefancysky.com/freefancysky/images/illustration/2019/570/570_01.png">  <p>　　02.接受条款</p>  <img src="https://files.freefancysky.com/freefancysky/images/illustration/2019/570/570_02.png">  <p>　　03.选择“为另一台电脑创建安装介质”</p>  <img src="https://files.freefancysky.com/freefancysky/images/illustration/2019/570/570_03.png">  <p>　　04.这页可直接点击“下一步”</p>  <img src="https://files.freefancysky.com/freefancysky/images/illustration/2019/570/570_04.png">  <p>　　05.选择要使用的介质，就选择U盘</p>  <img src="https://files.freefancysky.com/freefancysky/images/illustration/2019/570/570_05.png">  <p>　　06.选择要制作为启动盘的U盘</p>  <img src="https://files.freefancysky.com/freefancysky/images/illustration/2019/570/570_06.png">  <p>　　07.点击“下一步”，开始下载win10系统</p>  <img src="https://files.freefancysky.com/freefancysky/images/illustration/2019/570/570_07.png">  <p>　　08.下载完整后，跳转到如下界面</p>  <img src="https://files.freefancysky.com/freefancysky/images/illustration/2019/570/570_08.png">  <p>　　09.点击完成，很快就完成了安装，安装完成后U盘中的文件如下图</p>  <img src="https://files.freefancysky.com/freefancysky/images/illustration/2019/570/570_09.png">  <p><strong>3.</strong>此方法制作的win10启动盘不需要在重启电脑时进入U启动，直接在想要安装win10的电脑上双击启动盘中的setup.exe软件，进入安装过程，一般都只是选择下一步就行了，但在其中一步“选择需要保存的内容”那里，根据自己的需要选择需要保存的内容。</p>  <p>　　如果想删除电脑中的全部内容重新安装win10，就选择“无”，即不保存任何内容，也可根据需要选择“保留个人文件和应用”或者“仅保留个人文件”</p></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>利用Hexo+Github搭建个人博客</title>
       <link href="2021/03/23/%E5%88%A9%E7%94%A8Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
       <url>2021/03/23/%E5%88%A9%E7%94%A8Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
