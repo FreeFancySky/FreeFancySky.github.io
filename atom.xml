@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SoFunnyCode</title>
   
-  
+  <subtitle>SoFunnyCode</subtitle>
   <link href="https://freefancysky.github.io/atom.xml" rel="self"/>
   
   <link href="https://freefancysky.github.io/"/>
