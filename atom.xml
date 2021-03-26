@@ -3,11 +3,11 @@
   <title>SoFunnyCode</title>
   
   <subtitle>SoFunnyCode</subtitle>
-  <link href="https://freefancysky.github.io/atom.xml" rel="self"/>
+  <link href="https://sofunnycode.cn/atom.xml" rel="self"/>
   
-  <link href="https://freefancysky.github.io/"/>
+  <link href="https://sofunnycode.cn/"/>
   <updated>2021-03-26T07:10:11.987Z</updated>
-  <id>https://freefancysky.github.io/</id>
+  <id>https://sofunnycode.cn/</id>
   
   <author>
     <name>SoFunnyCode</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>利用Hexo+Github搭建个人博客</title>
-    <link href="https://freefancysky.github.io/fcc54478b780.html"/>
-    <id>https://freefancysky.github.io/fcc54478b780.html</id>
+    <link href="https://sofunnycode.cn/fcc54478b780.html"/>
+    <id>https://sofunnycode.cn/fcc54478b780.html</id>
     <published>2021-03-23T08:32:17.000Z</published>
     <updated>2021-03-26T07:10:11.987Z</updated>
     
@@ -40,25 +40,25 @@
     
     
     
-    <category term="程序周边" scheme="https://freefancysky.github.io/categories/%E7%A8%8B%E5%BA%8F%E5%91%A8%E8%BE%B9/"/>
+    <category term="程序周边" scheme="https://sofunnycode.cn/categories/%E7%A8%8B%E5%BA%8F%E5%91%A8%E8%BE%B9/"/>
     
-    <category term="博客" scheme="https://freefancysky.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://sofunnycode.cn/categories/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="GithubPage" scheme="https://freefancysky.github.io/categories/GithubPage/"/>
+    <category term="GithubPage" scheme="https://sofunnycode.cn/categories/GithubPage/"/>
     
     
-    <category term="Hexo" scheme="https://freefancysky.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://sofunnycode.cn/tags/Hexo/"/>
     
-    <category term="GithubPage" scheme="https://freefancysky.github.io/tags/GithubPage/"/>
+    <category term="GithubPage" scheme="https://sofunnycode.cn/tags/GithubPage/"/>
     
-    <category term="博客" scheme="https://freefancysky.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://sofunnycode.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://freefancysky.github.io/f640b9525bff.html"/>
-    <id>https://freefancysky.github.io/f640b9525bff.html</id>
+    <link href="https://sofunnycode.cn/f640b9525bff.html"/>
+    <id>https://sofunnycode.cn/f640b9525bff.html</id>
     <published>2021-03-23T08:04:40.564Z</published>
     <updated>2021-03-24T12:49:27.833Z</updated>
     
@@ -73,7 +73,7 @@
     
     
     
-    <category term="HelloWorld" scheme="https://freefancysky.github.io/tags/HelloWorld/"/>
+    <category term="HelloWorld" scheme="https://sofunnycode.cn/tags/HelloWorld/"/>
     
   </entry>
   
