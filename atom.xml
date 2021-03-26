@@ -6,7 +6,7 @@
   <link href="https://sofunnycode.cn/atom.xml" rel="self"/>
   
   <link href="https://sofunnycode.cn/"/>
-  <updated>2021-03-26T13:53:55.953Z</updated>
+  <updated>2021-03-26T14:18:17.603Z</updated>
   <id>https://sofunnycode.cn/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://sofunnycode.cn/fde1da1181a0.html"/>
+    <id>https://sofunnycode.cn/fde1da1181a0.html</id>
+    <published>2021-03-26T14:18:17.000Z</published>
+    <updated>2021-03-26T14:18:17.603Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>利用Hexo+Github搭建个人博客</title>
