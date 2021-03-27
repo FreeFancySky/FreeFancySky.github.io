@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>如何下载Debian</title>
+      <link href="8f8045351483.html"/>
+      <url>8f8045351483.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="登录Debian官网"><a href="#登录Debian官网" class="headerlink" title="登录Debian官网"></a>登录<a href="https://www.debian.org/" title="Debian官网">Debian官网</a></h3><p>  　　注：这里以下载Debian的ISO文件为例，里面包含完整的文件，可以离线安装，也可以利用U盘制作为启动盘，为其他电脑安装Debian。</p><p>  　　在页面下方找到“<strong>取得Debian</strong>” ——&gt; “<strong>CD/USB ISO 映像</strong>”<br>  <img src="https://sofunnycode.oss-cn-shanghai.aliyuncs.com/sofunnycode/illustration/2021/03/90/90_01.png" style="zoom:50%"></p><p>  　　点击下方“<strong>通过HTTP下载CD/DVD映像文件</strong>”<br>  <img src="https://sofunnycode.oss-cn-shanghai.aliyuncs.com/sofunnycode/illustration/2021/03/90/90_02.png" style="zoom:50%"></p><p>  　　找到页面中“<strong>稳定（stable）版本的官方CD/DVD 映像</strong>”下面的“<strong>DVD</strong>”，下面有多个版本的文件，我们可以选择“<strong>amd64</strong>”或者“<strong>i386</strong>”，两者的区别相当于win7中的win64和win32，现在大部分电脑都是64位，所以我们选择下载“amd64”<br>  <img src="https://sofunnycode.oss-cn-shanghai.aliyuncs.com/sofunnycode/illustration/2021/03/90/90_03.png" style="zoom:50%"></p><p>  　　点击“amd64”之后跳转如下，翻到页面最下方，找到文件列表中的三个ISO文件，都下载下来，安装Debian时选择“<strong>debian-10.3.0-amd64-DVD-1.iso</strong>”这个文件，安装最后阶段会询问你是否添加其他ISO文件，基础文件都放在这个ISO文件里，部分软件可能会放在下面两个ISO文件中，可以选择是否添加<br>  <img src="https://sofunnycode.oss-cn-shanghai.aliyuncs.com/sofunnycode/illustration/2021/03/90/90_04.png" style="zoom:50%"><br>  　　至此就完成下载Debian了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+          <category> Debian </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux,Debian </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何安装VMware虚拟机</title>
       <link href="f42b7efe5b3e.html"/>
       <url>f42b7efe5b3e.html</url>
