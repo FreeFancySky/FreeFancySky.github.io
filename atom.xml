@@ -6,7 +6,7 @@
   <link href="https://sofunnycode.cn/atom.xml" rel="self"/>
   
   <link href="https://sofunnycode.cn/"/>
-  <updated>2021-03-28T06:30:56.588Z</updated>
+  <updated>2021-03-28T06:45:32.983Z</updated>
   <id>https://sofunnycode.cn/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何制作win7启动盘</title>
+    <link href="https://sofunnycode.cn/deb614773831.html"/>
+    <id>https://sofunnycode.cn/deb614773831.html</id>
+    <published>2021-03-28T06:45:32.000Z</published>
+    <updated>2021-03-28T06:45:32.983Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何制作win10启动盘</title>
+    <link href="https://sofunnycode.cn/cec177d1e3af.html"/>
+    <id>https://sofunnycode.cn/cec177d1e3af.html</id>
+    <published>2021-03-28T06:44:39.000Z</published>
+    <updated>2021-03-28T06:44:39.387Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>VMware虚拟机中如何添加Debian系统</title>
