@@ -107,9 +107,9 @@
       
         <tags>
             
-            <tag> VMWare </tag>
-            
             <tag> Debian </tag>
+            
+            <tag> VMWare </tag>
             
         </tags>
       
@@ -127,18 +127,18 @@
       
       <categories>
           
-          <category> Debian </category>
-          
           <category> Linux </category>
+          
+          <category> Debian </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Debian </tag>
-            
             <tag> Linux </tag>
+            
+            <tag> Debian </tag>
             
         </tags>
       
