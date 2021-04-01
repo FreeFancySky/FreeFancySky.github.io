@@ -131,9 +131,9 @@
     <category term="Debian" scheme="https://sofunnycode.cn/categories/Debian/"/>
     
     
-    <category term="VMWare" scheme="https://sofunnycode.cn/tags/VMWare/"/>
-    
     <category term="Debian" scheme="https://sofunnycode.cn/tags/Debian/"/>
+    
+    <category term="VMWare" scheme="https://sofunnycode.cn/tags/VMWare/"/>
     
   </entry>
   
@@ -154,14 +154,14 @@
     
     
     
-    <category term="Debian" scheme="https://sofunnycode.cn/categories/Debian/"/>
-    
     <category term="Linux" scheme="https://sofunnycode.cn/categories/Linux/"/>
     
+    <category term="Debian" scheme="https://sofunnycode.cn/categories/Debian/"/>
     
-    <category term="Debian" scheme="https://sofunnycode.cn/tags/Debian/"/>
     
     <category term="Linux" scheme="https://sofunnycode.cn/tags/Linux/"/>
+    
+    <category term="Debian" scheme="https://sofunnycode.cn/tags/Debian/"/>
     
   </entry>
   
