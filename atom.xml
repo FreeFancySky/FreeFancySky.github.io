@@ -41,9 +41,9 @@
     <category term="启动盘" scheme="https://sofunnycode.cn/categories/%E5%90%AF%E5%8A%A8%E7%9B%98/"/>
     
     
-    <category term="启动盘" scheme="https://sofunnycode.cn/tags/%E5%90%AF%E5%8A%A8%E7%9B%98/"/>
-    
     <category term="win7" scheme="https://sofunnycode.cn/tags/win7/"/>
+    
+    <category term="启动盘" scheme="https://sofunnycode.cn/tags/%E5%90%AF%E5%8A%A8%E7%9B%98/"/>
     
   </entry>
   
@@ -72,9 +72,9 @@
     <category term="启动盘" scheme="https://sofunnycode.cn/categories/%E5%90%AF%E5%8A%A8%E7%9B%98/"/>
     
     
-    <category term="win10" scheme="https://sofunnycode.cn/tags/win10/"/>
-    
     <category term="启动盘" scheme="https://sofunnycode.cn/tags/%E5%90%AF%E5%8A%A8%E7%9B%98/"/>
+    
+    <category term="win10" scheme="https://sofunnycode.cn/tags/win10/"/>
     
   </entry>
   
@@ -131,9 +131,9 @@
     <category term="Debian" scheme="https://sofunnycode.cn/categories/Debian/"/>
     
     
-    <category term="VMWare" scheme="https://sofunnycode.cn/tags/VMWare/"/>
-    
     <category term="Debian" scheme="https://sofunnycode.cn/tags/Debian/"/>
+    
+    <category term="VMWare" scheme="https://sofunnycode.cn/tags/VMWare/"/>
     
   </entry>
   
@@ -154,14 +154,14 @@
     
     
     
-    <category term="Debian" scheme="https://sofunnycode.cn/categories/Debian/"/>
-    
     <category term="Linux" scheme="https://sofunnycode.cn/categories/Linux/"/>
     
+    <category term="Debian" scheme="https://sofunnycode.cn/categories/Debian/"/>
     
-    <category term="Debian" scheme="https://sofunnycode.cn/tags/Debian/"/>
     
     <category term="Linux" scheme="https://sofunnycode.cn/tags/Linux/"/>
+    
+    <category term="Debian" scheme="https://sofunnycode.cn/tags/Debian/"/>
     
   </entry>
   
