@@ -22,9 +22,9 @@
       
         <tags>
             
-            <tag> 启动盘 </tag>
-            
             <tag> win7 </tag>
+            
+            <tag> 启动盘 </tag>
             
         </tags>
       
@@ -51,9 +51,9 @@
       
         <tags>
             
-            <tag> win10 </tag>
-            
             <tag> 启动盘 </tag>
+            
+            <tag> win10 </tag>
             
         </tags>
       
@@ -107,9 +107,9 @@
       
         <tags>
             
-            <tag> Debian </tag>
-            
             <tag> VMWare </tag>
+            
+            <tag> Debian </tag>
             
         </tags>
       
@@ -127,18 +127,18 @@
       
       <categories>
           
-          <category> Linux </category>
-          
           <category> Debian </category>
+          
+          <category> Linux </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Linux </tag>
-            
             <tag> Debian </tag>
+            
+            <tag> Linux </tag>
             
         </tags>
       
